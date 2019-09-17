@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.selectmenu">
+    package="com.login_form">
     <application>
-        <activity android:name="com.login_form.login_fom"/>
+        <activity android:name=".login_fom"/>
     </application>
 
 </manifest>
